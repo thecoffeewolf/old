@@ -9,4 +9,5 @@ Continuing from the previous post, I returned home on the night of 7/18 -> 7/19.
 
 Later I learned that my original flight had been cancelled. :v
 
-Live update @ 8:05PM there at appears to be some talk about pot runs in front of me here at this starbucks.
+#LiveUpdate @ 8:05PM there at appears to be some talk about pot runs in front of me here at this starbucks.
+#LiveUupdate 2 @8:20PM Seems to be resolved. Gonna go play some melee. :3!
