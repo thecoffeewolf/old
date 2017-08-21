@@ -65,4 +65,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: Ink
+theme: jekyll-theme-ink
